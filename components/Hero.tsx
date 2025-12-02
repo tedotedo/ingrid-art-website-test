@@ -12,7 +12,7 @@ export const Hero: React.FC = () => {
       
       {/* Background Text Overlay - Big Serif Text (Simulating text on the wall/glass) */}
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-        <span className="text-[12vw] md:text-[14vw] font-serif font-bold text-black opacity-80 tracking-tighter leading-none text-center select-none mix-blend-multiply">
+        <span className="text-[12vw] md:text-[14vw] font-serif font-bold text-black opacity-60 tracking-tighter leading-none text-center select-none mix-blend-multiply">
           INGRID ASZKENASY
         </span>
       </div>
